@@ -90,7 +90,6 @@ class MailWindowController {
       webPreferences: {
         spellcheck: true,
         affinity: "main-window",
-        contextIsolation: false,
         nodeIntegration: true,
       },
     });
